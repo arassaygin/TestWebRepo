@@ -8,7 +8,10 @@ Welcome to TEST Project's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Content
+   
+   IntroFile
+   
 
 
 
